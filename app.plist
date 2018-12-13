@@ -9,7 +9,7 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://gitee.com/dabaisk/iosdown/raw/master/app.ipa</string>
+      <string>https://raw.githubusercontent.com/dabaisk/iosdown/master/app.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -17,7 +17,7 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>https://gitee.com/dabaisk/iosdown/raw/master/app.png</string>
+      <string>https://raw.githubusercontent.com/dabaisk/iosdown/master/app.png</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -25,13 +25,13 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>https://gitee.com/dabaisk/iosdown/raw/master/app.png</string>
+      <string>https://raw.githubusercontent.com/dabaisk/iosdown/master/app.png</string>
      </dict>
     </array>
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.guohuikeji.24k.dafuai</string>
+     <string>com.guohuikeji.24k</string>
      <key>bundle-version</key>
      <string>1.1.0</string>
      <key>kind</key>
