@@ -31,9 +31,9 @@
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.guohuikeji.24k</string>
+     <string>com.guohuikeji.24k.dafuai.dafuai</string>
      <key>bundle-version</key>
-     <string>1.1.2</string>
+     <string>1.1.6</string>
      <key>kind</key>
      <string>software</string>
      <key>subtitle</key>
